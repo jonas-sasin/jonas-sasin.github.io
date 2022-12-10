@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a11b2286.js",
+    "static/media/stock_lunch.jpg": "/static/media/stock_lunch.79b2cb925578eb58cd59.jpg",
+    "index.html": "/index.html",
+    "main.a11b2286.js.map": "/static/js/main.a11b2286.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a11b2286.js"
+  ]
+}
